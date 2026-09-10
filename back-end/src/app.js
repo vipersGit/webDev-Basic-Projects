@@ -1,7 +1,7 @@
 // REQUIRED PACKAGES
 const cors = require("cors");
 const express = require("express");
-const noteModel = require("./models/notes.model");
+const noteModel = require("./models/note.model");
 const path = require("path");
 
 // EXECUTABLE PACKAGES
